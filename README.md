@@ -4,6 +4,6 @@ UnderTell 2 is a Java console RPG in which players explore rooms, encounter enem
 
 # How To Run
 
-To play the game, make sure Java is installed. Open the folder containing UnderTell2.jar, type cmd in the address bar, and press Enter. Then enter:
+To play the game, make sure Java is installed. Download and Open the folder containing UnderTell2.jar, type cmd in the address bar, and press Enter. Then enter:
 
 "java -jar UnderTell2.jar"
